@@ -1,0 +1,25 @@
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración local de editores
+.vscode/
