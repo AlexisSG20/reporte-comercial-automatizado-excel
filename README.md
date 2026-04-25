@@ -122,6 +122,10 @@ El dashboard incluye:
 - ventas por medio de pago
 - segmentadores interactivos
 
+### Vista del dashboard
+
+![Dashboard del reporte comercial automatizado](docs/capturas/dashboard.png)
+
 ## Resultado
 
 El archivo maestro permite actualizar el análisis al agregar nuevos archivos de ventas a la carpeta `archivos_fuente` y presionar **Actualizar todo** en Excel.
