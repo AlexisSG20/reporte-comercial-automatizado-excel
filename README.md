@@ -132,6 +132,12 @@ El archivo maestro permite actualizar el análisis al agregar nuevos archivos de
 
 Esto simula un flujo de trabajo real de reporting comercial automatizado.
 
+## Documentación técnica
+
+La documentación técnica completa del proyecto está disponible en:
+
+[Ver documentación técnica en PDF](docs/documentacion-tecnica-reporte-comercial-excel.pdf)
+
 ## Autor
 
 Alexis Suasnabar
